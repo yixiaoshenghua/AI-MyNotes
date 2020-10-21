@@ -1,4 +1,4 @@
-# MyNotes
+# AI
 Here I give an abstract definition of artificial intelligence, hoping to inspire future research directions.
 
 I call an object intelligent, because it can behave like human, has the ability to complete complex tasks, and has human thinking ability and emotional activities, anyone observing it from the outside has the same mind as human knowing complex psychological activities such as games, tricks, deception, at least on the outside. Until the moment when it is judged that he is non-intelligent, no one can know the internal operating principle of his intelligence, then such an object is intelligent in terms of completeness.
